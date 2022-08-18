@@ -1,0 +1,203 @@
+
+
+html {
+    font-size: 62.5%;
+    cursor: url(http://www.rw-designer.com/cursor-extern.php?id=165646), default;
+    background-color: #f5f5f5;
+    
+}
+
+body {
+    background-color: #f5f5f5;
+    font-family: 'Raleway', sans-serif;    
+    
+}
+
+.main-container {
+    border-bottom: 1px solid #f5f5f5;
+    max-width: 1198px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    border-bottom: 1px solid #59788e;
+    padding: 20px;
+    width: 100%;
+    
+}
+
+header img {
+    width: 100px;
+}
+
+header img:hover {
+    margin-left: 5px;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #59788e;
+    padding: 20px;
+    text-align: center;
+}
+
+h1:hover {
+    color: #003153;
+}
+
+h2 { 
+    font-size: 2.6rem;
+    color: cadetblue;
+    padding: 20px;
+}
+
+h2:hover {
+    color: #59788e;
+}
+
+h3{
+    font-size: 2.3rem;
+    color: cornflowerblue;
+    padding: 20px;
+}
+
+h3:hover {  
+    color: #63c5da;
+}
+
+h4 {
+    font-size: 1.7rem;
+    color: #59788e;
+    padding: 20px;
+}
+
+h4:hover {
+    color: #0492c2;
+}
+
+h5 {
+    color:#0492c2;
+    font-size: 2.7rem; 
+    padding: 20px;
+}
+
+h5:hover{
+    text-align: center;
+    color: #1338be;
+}
+p{
+    margin-bottom: 10px;
+}
+
+p:hover {
+    cursor: url(http://www.rw-designer.com/cursor-extern.php?id=165649), default;
+
+
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#tenho-interesse {
+    background-color: #f6fdff !important;
+    width: 70%;
+}
+
+#tenho-interesse form, .cog-cognito--styled .cog-header, :root:root:root:root:root .cog-cognito--styled .cog-header  {
+    background-color: #f6fdff!important;
+}
+
+#tenho-interesse .cognito .c-forms-form .c-forms-form-title h2,
+#tenho-interesse .cognito label[for], .cognito input[type=radio], .cognito input[type=checkbox] {
+    
+    color: #385874;
+}
+section {
+    display: block;
+    float: left;
+    font-size: 1.5rem; /* equivalente a 15px */ 
+    padding: 20px;
+    width: 100%;
+}
+
+section nav {
+    display: block;
+    float: left;
+    width: 30%;
+}
+
+nav li {
+    background-color: #efefef;
+    margin: 1px 20px 1px 0;
+    padding: 10px;
+}
+
+nav li:hover {
+    background-color: gray;
+    
+    cursor: url(http://www.rw-designer.com/cursor-extern.php?id=165625), default;
+}
+
+nav a {
+    text-decoration: none;
+    color: #0492c2;
+}
+
+nav a:hover {
+    color: #1338be;
+    cursor: url(http://www.rw-designer.com/cursor-extern.php?id=165625), default;
+}
+
+nav img {
+    width: 100px;
+    padding: 50px
+}
+nav img:hover{
+cursor: none;
+}
+
+
+
+section article {
+    display: block;
+    float: left;
+    width: 50%;
+}
+
+article img {
+    width: 200px;
+}
+
+article img:hover {
+    filter:grayscale(50%);
+}
+
+ol li{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #003153;
+    display: block;
+    float: left;
+    padding: 20px;
+    width: 100%;
+}
+
+footer p {
+    color: #63c5da;
+    font-size: 1.4rem;
+}
+
+footer small {
+    font-size: 80%;
+    display: block;
+}
+
+.cognito {
+    height: 400px !important;
+    overflow: hidden;
+}
